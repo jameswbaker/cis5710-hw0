@@ -1,5 +1,6 @@
         .section .data
-input_string:   .asciz "Hello world!"
+input_string:   .asciz "Hello world! hi !\"#$%&'()*+,-./0123e456789:;<=>? wWw @ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz [\^_]`{|}"
+
 
         # tohost/fromhost are data locations used by Spike
         .align 8
